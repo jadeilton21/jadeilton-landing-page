@@ -1,27 +1,52 @@
-# JadeiltonLandingPage
+🚀 Jadeilton Consultoria - Landing Page
+Esta é uma landing page institucional desenvolvida com Angular, voltada para promover serviços de consultoria em desenvolvimento de software e soluções em nuvem.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
 
-## Development server
+📌 Objetivo
+Apresentar os serviços da Jadeilton Consultoria, destacando:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Especialistas em desenvolvimento de software
 
-## Code scaffolding
+Projetos guiados desde o zero
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Expertise em Cloud Computing (AWS)
 
-## Build
+Formulário para captação de leads
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Design moderno com foco em conversão
 
-## Running unit tests
+🛠️ Tecnologias Utilizadas
+Angular 17+
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+HTML5 / CSS3
 
-## Running end-to-end tests
+TypeScript
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Responsividade com Flexbox e Grid
 
-## Further help
+📸 Layout
+A página apresenta seções com:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Texto de impacto e CTA
+
+Formulário de contato
+
+Cards informativos
+
+Integração visual com temas de tecnologia
+
+Destaque para serviços AWS
+
+✅ Funcionalidades
+Formulário de inscrição com campos obrigatórios
+
+Botões com CTA claros
+
+Layout totalmente responsivo
+
+Estilo corporativo moderno
+
+
+
+
+![Diagrama](./jadeilton-page.png)
